@@ -15,7 +15,7 @@ case '+':cout<<a<<'+'<<b<<'='<<a+b;break;
 case '-':cout<<a<<'-'<<b<<'='<<a-b;break;
 case '*':cout<<a<<'*'<<b<<'='<<a*b;break;
 case '/':cout<<a<<'/'<<b<<'='<<a/b;break;
-default:cout<<"error....   wrong operation...";
+default:cout<<"wrong";
 }
 cout<<"\n\n\n"<<"press any key to exit...";
 getch();
